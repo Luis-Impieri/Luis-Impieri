@@ -1,5 +1,6 @@
-# 👋 Olá, eu sou Luis Impieri!  
+# 👋 Olá!  
 
+Luis Impieri
 📚 **Engenharia de Software @ UNDB** | **Analista de Dados**  
 💡 Apaixonado por transformar dados em insights e criar soluções inteligentes com Python e Machine Learning.  
 
