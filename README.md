@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 Projetos Destacados  
+### 🚀 Meus Principais Projetos 
 
 🔹 **[Risco de Obesidade (ML)](https://github.com/Luis-Impieri/RiscoDeObesidade)**  
 *Modelo de machine learning para prever risco de obesidade com base em hábitos.*  
