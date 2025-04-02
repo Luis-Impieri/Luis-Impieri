@@ -25,10 +25,10 @@
 *Análise e previsão de preços usando técnicas de regressão.*  
 
 🔹 **[Análise de Mídias Sociais](https://github.com/Luis-Impieri/SocialMediaAnalise)**  
-*Processamento e visualização de dados de redes sociais com Python e Power BI.*  
+*Processamento e visualização de dados de redes sociais com Python (Pandas).*  
 
 🔹 **[Python para Finanças](https://github.com/Luis-Impieri/Python-com-finan-as-)**  
-*Automação de análise financeira e geração de relatórios.*  
+*Web Scrapping com Python para análise do mercado financeiro.*  
 
 ---
 
