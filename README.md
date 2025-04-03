@@ -27,8 +27,8 @@
 🔹 **[Análise de Mídias Sociais](https://github.com/Luis-Impieri/SocialMediaAnalise)**  
 *Processamento e visualização de dados de redes sociais com Python (Pandas).*  
 
-🔹 **[Python para Finanças](https://github.com/Luis-Impieri/Python-com-finan-as-)**  
-*Web Scrapping com Python para análise do mercado financeiro.*  
+🔹 **[Classificação de Frutas](https://github.com/Luis-Impieri/Classifica_Frutas)**  
+*Modelo de ML para visão computacional e classificação de frutas. Detecta até o momento bananas e abacaxis.*  
 
 ---
 
